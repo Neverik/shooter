@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2f6a9d8ad961346efa6d55a6ff595d03
+timeCreated: 1497194463
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: a_AlbionicTitulInfl
+  fontNames:
+  - a_AlbionicTitulInfl
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
